@@ -1,0 +1,11 @@
+CREATE TABLE `microbes` (
+	`Microbe_Id` INT(11) NOT NULL DEFAULT '0',
+	`Microbe_Name` VARCHAR(200) NOT NULL COLLATE 'latin1_swedish_ci',
+	`Microbe_Occurance` VARCHAR(1000) NOT NULL COLLATE 'latin1_swedish_ci',
+	`Microbe_Functions` VARCHAR(1000) NOT NULL COLLATE 'latin1_swedish_ci',
+	`Link` BLOB NULL DEFAULT NULL,
+	PRIMARY KEY (`Microbe_Id`) USING BTREE
+)
+COLLATE='latin1_swedish_ci'
+ENGINE=InnoDB
+;

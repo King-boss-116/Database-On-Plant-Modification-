@@ -1,0 +1,39 @@
+﻿"Microbe_Id","Microbe_Name","Microbe_Occurance","Microbe_Functions","Link"
+"13","Colocasia","Well drained loamy soils","Boosts health diseases and overall well-being of humans","https://en.wikipedia.org/wiki/Colocasia"
+"15","Streptomyces","Present in the form of filaments or mycelium"," It  improves nutrition acquisition or phytohormone production.","https://en.wikipedia.org/wiki/Streptomyces"
+"1","Penicillium","Present as ubiquitous soil fungi.","It involves phosphate solubilization, which may be good against fighting infections.","https://www.britannica.com/science/Penicillium"
+"7","Serratia marcescens","Occurs naturally in soil and water","Increases leaf area","https://en.wikipedia.org/wiki/Serratia_marcescens"
+"4","Phone","occur on economically important crop plants","Helps against harmful infectious diseases",\N
+"5","Rhizoctnia","Naturally present in outdoor soils from fields, landscapes, gardens, etc.","It makes sclerotia, which are tough, brownish-black structures that let it live for years in the soil or diseased plant tissue, which cures diseases of plants with time.",\N
+"26","Lysinibacillus","Most commonly found in soil","salt and fungicide resistance",\N
+"12","Dinoflagellates","Low salinity, high nutrient content in the water, and warmer-than-usual surface water temperatures (coastal waters)","Some species are capable of bioluminescence. They can help channel significant amounts of energy into planktonic food webs. This phytoplankton can produce oxygen in marine and freshwater.",\N
+"30","Caulobacter","It thrives in settings with low nutrition levels (can be found in the aquatic environment, attached to matter)","These range of bacteria enhance plant growth or stress tolerance via diverse mechanisms, including hormone modulation, nutrient uptake enhancement, or disease suppression",\N
+"10","Microalgae","Grown in diverse aquatic habitats and even humid soils.","It can synthesize useful products such as polysaccharides, proteins, polyunsaturated fatty acids, lipids, and other bioactive metabolites, from atmospheric CO2. It reduces the effects of saline stress on plants.",\N
+"20","Pseudomonas oxytoca","Grown in a sandy to loamy soil rich in organic matter","Rich source of Vitamin C and increase nutrient content in plant.",\N
+"9","bacillus strains","Found in the soil	","bacillus strains	Found in the soil	Increased plant growth and nutrients in raspberry",\N
+"19","Diazotroph","Found in the roots of plants","fungicide resistance induced",\N
+"11","Arthrobacter","Found in soils, the aerial surface of plants, and wastewater sediments","Increased yield of wheat, induced growth promotion, quality enhancement, seedling vigor, antibiotic and fungicide resistance, drought resistance, salt tolerance, antioxidant activity",""
+"2","Trichoderma","Found in soils and most common cultural fungis","Its strains have the ability of rapid growth and reproduction and efficient transformation of soil nutrients. They can change the plant rhizosphere soil environment and promote plant growth",\N
+"40","OCHROBACTERIUM-ANTHROPI","Found in soil,water but also from contanimated biological products such as human wastes and human fluids.","Saline Resistance,Nitrogen Fixation.",\N
+"29","        Pseudomonas","Found in soil, water","Increased plant growth and yield of gram",\N
+"52","Pseudomonas stutzeri","Found in soil, the organism has been found in the rhizosphere of cordgrass and other commonly grown plants including wheat, barley, and rice","Enhanced growth, significantly suppressed phytophthora crown rot",\N
+"67","Bacillus megaterium","Found in soil, seawater, sediments, rice paddies, dried food, honey, and milk","Increased dry mass yield",\N
+"8","Paenibacillus polymyxa","Found in soil, plant tissues, marine sediments","Increased plant height and leaf area",\N
+"42","Ochrobactrum anthropi","Found in soil and water","Improving gaseous exchange, water relations, photosynthetic pigments, growth, and seed yield for mung beans",\N
+"77","DELFTIA","Found in sludge,soil,water and hospital ennvironment.","Increased nutrient uptake,enchance soil properties.",\N
+"14","Brevibacterium","Found in raw milk and surface-ripened cheese as well as on human skin and in animal sources.","Increased yield of rice.",\N
+"100","Stenotrophomonas-MALTOPHILIA","Found in plants,soil and on the surface of human skin.","Salt resistance and antibiotic nature.",\N
+"21","  Herbaspirillum           ","Found in plant tissues, water bodies, soil, and sediments"," Drought resistance",\N
+"49","Variovorax paradoxus","Found in plant rhizosphere communities.","Increased salt tolerance, antiviral against mottle mosaic virus",\N
+"23","P. fluorescens","Found in moist environments, such as soil, leaves, and water ","	Increases salt tolerance ",\N
+"17","Azospirillum","Found in large numbers in tropical soils","Increase plant height",\N
+"28","Bacillus (PGPR)","found in higher concentrations in soil, water, and food products that have a plant origin.","This genus includes the production of phytohormones, 1- aminocyclopropane- 1-carboxylate deaminase and siderophore production, and phosphate solubilization. It is also involved in the induction of plant systemic resistance against pathogens.",\N
+"6","Agrobacterium","found commonly on and around root surfaces, where it survives by using nutrients that leak from the root tissues.","It perceives plant- derived signals to activate its virulence genes, which are responsible for transferring and integrating its Transferred DNA (T-DNA) from its",\N
+"3","Aspergillus","Dead leaves, stored grain, compost piles, and other decaying vegetation can all be used to cultivate mushrooms.","It is responsible for more than 99% of citric acid production worldwide. A submerged fermentation procedure is used to make this flavoring and preservation ingredient.",\N
+"120","LEUCOBACTER","Chromium containminated environment","Increased growth and antibioitic nature.",\N
+"66","Bacillus  amyloliquefaciens","Bacillus  amyloliquefaciens	Found in soils throughout the world and also on dried foods and fresh produce.","Bacillus  amyloliquefaciens	Found in soils throughout the world and also on dried foods and fresh produce.",\N
+"90","Azotobacter","Azotobacter grows well in Burk s liquid medium at a pH range of 7 to 9 but fails to grow below the pH of 6","Biocontrol, salt and fungicide resistance",\N
+"92","SE34","Artificial","Antiviral and overall growth promotion. Salt and viral resistant.",\N
+"99","USDA110","Artificial ","Increase seed protein, water stress tolerance.",\N
+"22","Rhizobium","A soil and root nodule bacteria associated symbiotically with legume plants","Enriching nutrients by nitrogen fixation, solubilizing phosphates, and producing phytohormones, and rhizobia can increase plants' protection by influencing the production of metabolites, improve plant defense by triggering systemic resistance induced against pests and pathogens.",\N
+"27","          Burkholderia cepacia","      Commonly found in soil and water","increased nutrient uptake",\N
